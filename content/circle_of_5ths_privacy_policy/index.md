@@ -1,4 +1,8 @@
-# Circle of 5ths Privacy Policy
+---
+title: "Circle of 5ths Privacy Policy"
+date: 2020-08-11T17:55:38+04:00
+draft: false
+---
 
 I’m Anton Zhvakin the only developer of the Circle of 5ths. I believe privacy is a fundamental human right. That’s why my app Circle of 5ths doesn’t store or collect any of your personal data.
 

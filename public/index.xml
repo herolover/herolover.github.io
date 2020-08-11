@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on herolover.dev</title>
+    <link>https://herolover.dev/</link>
+    <description>herolover.dev (Projects)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 16:49:30 +0400</lastBuildDate>
+    
+    <atom:link href="https://herolover.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://herolover.dev/contacts/</link>
+      <pubDate>Tue, 11 Aug 2020 17:58:13 +0400</pubDate>
+      
+      <guid>https://herolover.dev/contacts/</guid>
+      <description>&lt;p&gt;Anton Zhvakin &lt;a href=&#34;mailto:anton.zhv@gmail.com&#34;&gt;anton.zhv@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circle of 5ths Privacy Policy</title>
+      <link>https://herolover.dev/circle_of_5ths_privacy_policy/</link>
+      <pubDate>Tue, 11 Aug 2020 17:55:38 +0400</pubDate>
+      
+      <guid>https://herolover.dev/circle_of_5ths_privacy_policy/</guid>
+      <description>&lt;p&gt;I’m Anton Zhvakin the only developer of the Circle of 5ths. I believe privacy is a fundamental human right. That’s why my app Circle of 5ths doesn’t store or collect any of your personal data.&lt;/p&gt;
+&lt;p&gt;But I must mention that the Circle of 5ths uses Google Payments so please refer to its &lt;a href=&#34;https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&amp;amp;ldt=privacynotice&#34;&gt;Privacy Policy&lt;/a&gt; and learn it.&lt;/p&gt;
+&lt;p&gt;If you have any questions about the document, please contact me via e-mail &lt;a href=&#34;mailto:anton.zhv@gmail.com&#34;&gt;anton.zhv@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
